@@ -1,5 +1,8 @@
 # online_grocery_store
 
+![Alt Text](/ezgif-5-4bdb84860f.gif)
+
+
 
 This is a simple HTML, CSS, and JavaScript project for a grocery store website. It includes various sections such as a homepage, product listing, product categories, customer reviews, and a footer.
 
