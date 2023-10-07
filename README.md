@@ -11,18 +11,18 @@ Getting Started
 Usage
 Contributing
 License
-#Features
+# Features
 
 Responsive design for mobile and desktop.
 Product listing with images, prices, and ratings.
 Product categories section.
 Customer review section.
 Contact information and social media links in the footer.
-#Demo
+# Demo
 
 You can see a live demo of this project here.
 
-#Getting Started
+# Getting Started
 
 To get started with this project, follow these steps:
 
@@ -36,13 +36,13 @@ bash
 cd grocery-store-website
 Open the index.html file in your web browser to view the website.
 
-#Usage
+# Usage
 
 Feel free to use this project as a template for your own grocery store website. You can customize the content, images, and styles to suit your needs.
 
 You can also modify the JavaScript code in js/script.js to add more functionality or integrate with a backend for dynamic data.
 
-#Contributing
+# Contributing
 
 If you'd like to contribute to this project, please follow these guidelines:
 
@@ -64,6 +64,6 @@ perl
 git push origin feature-name
 Create a pull request to the main repository with a clear description of your changes.
 
-#License
+# License
 
 This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
